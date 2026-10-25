@@ -1,3 +1,3 @@
-# Stow
+# لقطة · Lukta
 
-Privacy policy and account deletion pages for the Stow app (GitHub Pages).
+Privacy policy and account deletion pages for the Lukta app (GitHub Pages).
