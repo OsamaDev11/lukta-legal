@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "build": 1,
+  "version": "1.0.1",
+  "build": 2,
   "minBuild": 1,
-  "apk": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.0/Lukta.apk",
-  "apkOldPhones": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.0/Lukta-old-phones.apk",
+  "apk": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.1/Lukta.apk",
+  "apkOldPhones": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.1/Lukta-old-phones.apk",
   "notes": {
-    "ar": "أول إصدار من لقطة.",
-    "en": "The first release of Lukta."
+    "ar": "بعض التعديلات على النصوص .",
+    "en": "Some edites for strings ."
   }
 }
