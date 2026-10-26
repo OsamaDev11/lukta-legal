@@ -48,5 +48,17 @@ ul.list li{margin:0 0 6px}
 .mail{display:inline-flex;align-items:center;gap:8px;background:var(--orange);color:var(--on-orange);
   font-weight:700;padding:10px 18px;border-radius:12px;text-decoration:none;margin:4px 0 12px}
 .ltr{direction:ltr;unicode-bidi:isolate}
+.dl{background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:24px 22px 18px;margin:0 0 34px}
+.btn{display:flex;align-items:center;justify-content:center;gap:12px;background:var(--orange);color:var(--on-orange);
+  font-weight:800;font-size:20px;padding:16px 22px;border-radius:14px;text-decoration:none;min-height:56px}
+.btn svg{width:24px;height:24px;flex:none}
+.btn:hover{filter:brightness(1.04)}
+.dl .meta{color:var(--muted);font-size:15px;margin:12px 0 4px;text-align:center}
+.dl .old{font-size:15px;margin:0;text-align:center}
+.shots{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:0 0 38px;align-items:end}
+.shots img{width:100%;height:auto;display:block}
+.shots img:nth-child(2){transform:translateY(-14px)}
+@media (max-width:560px){.shots{gap:4px}}
+
 footer.wrap{border-top:1px solid var(--border);padding-top:22px;padding-bottom:40px;color:var(--muted);font-size:15px}
 footer nav{display:flex;flex-wrap:wrap;gap:6px 18px;margin-bottom:6px}
