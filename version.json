@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "build": 2002,
-  "minBuild": 1,
-  "apk": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.1/Lukta.apk",
-  "apkOldPhones": "https://github.com/OsamaDev11/lukta-legal/releases/download/v1.0.1/Lukta-old-phones.apk",
+  "version": "1.0.3",
+  "build": 7000,
+  "minBuild": 7000,
+  "apk": "https://play.google.com/store/apps/details?id=com.wolfbrain.lukta",
+  "apkOldPhones": "https://play.google.com/store/apps/details?id=com.wolfbrain.lukta",
   "notes": {
-    "ar": "بعض التعديلات على النصوص .",
-    "en": "Some edites for strings ."
+    "ar": "لقطة متاح الآن على Google Play. يرجى تحديث التطبيق من المتجر للاستمرار في استخدامه.",
+    "en": "Lukta is now on Google Play. Please update through the store to continue using the app."
   }
 }
